@@ -3,7 +3,7 @@
 Sitio estático para GitHub Pages: https://samoconcept.github.io
 
 ## Incluye
-- Landing responsive con identidad SAMO CONCEPT, secciones Libros y Objetos.
+- Landing responsive con franja roja, logo blanco y lema «Curaduría de libros y objetos», más secciones Libros y Objetos.
 - Listados y fichas individuales por URL: `/producto/?id=libro-01`.
 - Carrito persistente en `localStorage` con cantidades, eliminación y límites por stock.
 - WhatsApp directo desde producto o desde carrito, con texto: “Buenas, me gustaría hacer el siguiente pedido:” y listado de artículos y cantidades.
@@ -18,7 +18,7 @@ Los seis artículos son **fichas demostrativas**, no inventario publicado. No se
 5. El pedido por WhatsApp **no procesa pagos** ni confirma automáticamente la compra.
 
 ## Identidad visual
-- Paleta: `#FBF8F8`, `#C8CAF2`, `#FFCA30`, `#CC0C0B`, `#282828`.
+- Colores de marca: rojo `#CC0C0B` y amarillo `#FFCA30`; blanco y negro solo como neutros de lectura.
 - Tipografía principal: Space Mono.
 - El logo vectorial en `assets/logo.svg` está trazado a partir del documento de marca proporcionado.
 - Cactus Jack es una tipografía indicada por la guía; no está incorporada porque no se adjuntó archivo de fuente ni licencia para publicarla.
